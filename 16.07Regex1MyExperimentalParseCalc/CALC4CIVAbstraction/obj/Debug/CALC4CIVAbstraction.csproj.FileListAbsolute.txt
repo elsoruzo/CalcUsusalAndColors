@@ -1,0 +1,55 @@
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\calculator\CALC4CIVAbstraction\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\PracticeAbstractionStaticCALC\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyWorkingParserCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Documents\Visual Studio 2015\Projects\CalcRepN4\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\17.07Regex1MyExperimentalParseCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Desktop\17.07Regex1MyExperimentalParseCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\17.07Regex1MyExperimentalParseCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\17.07Regex1MyExperimentalParseCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.csprojResolveAssemblyReference.cache
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\GenericsAttemptRegex1ExperimentalCalc\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.pdb
+C:\Users\yvoitsekhovsky\Desktop\ColorShowcase\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\bin\Debug\CALC4CIVAbstraction.exe.config
+C:\Users\yvoitsekhovsky\Desktop\ColorShowcase\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.exe
+C:\Users\yvoitsekhovsky\Desktop\ColorShowcase\16.07Regex1MyExperimentalParseCalc\CALC4CIVAbstraction\obj\Debug\CALC4CIVAbstraction.pdb
